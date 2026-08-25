@@ -1,6 +1,4 @@
 Landing Page — The Odin Project
-
-Landing Page — The Odin Project
 --
 
 I. English Version.
@@ -33,8 +31,7 @@ Live Demo: [View Live Project](xxx)
 Source Code: [GitHub Repository](xxx)
 
 ---
-
-👤 Author
+Author
 
 - **Author:** [Ayukio Ritsuryo]
 - **GitHub:** [@AyukioRitsuryo](https://github.com/AyukioRitsuryo)
@@ -75,7 +72,7 @@ Podgląd kodu: [Repozytorium GitHub](xxx)
 
 ---
 
-👤 Autor
+Autor
 
 - **Autor:** [Ayukio Ritsuryo]
 - **GitHub:** [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo)
