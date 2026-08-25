@@ -4,7 +4,8 @@ Landing Page — The Odin Project
 I. English Version.
 
 The "Landing Page" project will be created as assignment for the HTML & CSS within [The Odin Project (Foundations Course)](https://www.theodinproject.com/). The main goal of this project is to recreate the design from scratch using HTML and CSS stylesheets. The designed website will be a landing page consisting of key sections.
---
+
+---
 
 Skills Used
 
@@ -33,17 +34,18 @@ Source Code: [GitHub Repository](xxx)
 ---
 Author
 
-- **Author:** [Ayukio Ritsuryo]
-- **GitHub:** [@AyukioRitsuryo](https://github.com/AyukioRitsuryo)
+Author: [Ayukio Ritsuryo]
+GitHub: [@AyukioRitsuryo](https://github.com/AyukioRitsuryo)
 
 ---
-*Project completed as part of [The Odin Project](https://www.theodinproject.com/) curriculum.*
+Project completed as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 ---
 
 I. Wersja Polska
 
 Projekt "Landing Page" będzie stworzony jako zwieńczenie HTML & CSS w ramach kursu [The Odin Project (Foundations Course)](https://www.theodinproject.com/). Głównym celem tego projektu jest odtworzenie projektu graficznego od zera, wykorzystując HTML oraz nowoczesny arkusz stylów CSS. Zaprojektowana strona będzie nowoczesnym landing page, składającym się z kluczowych sekcji.
+
 --
 
 Wykorzystane umiejętności
@@ -74,8 +76,8 @@ Podgląd kodu: [Repozytorium GitHub](xxx)
 
 Autor
 
-- **Autor:** [Ayukio Ritsuryo]
-- **GitHub:** [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo)
+Autor: [Ayukio Ritsuryo]
+GitHub: [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo)
 
 ---
-*Projekt zrealizowany w ramach programu [The Odin Project](https://www.theodinproject.com/).*
+Projekt zrealizowany w ramach programu [The Odin Project](https://www.theodinproject.com/).
