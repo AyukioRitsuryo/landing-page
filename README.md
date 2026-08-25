@@ -28,14 +28,14 @@ Technologies Used
 
 Live Demo
 
-Live Demo: [View Live Project](xxx)
-Source Code: [GitHub Repository](xxx)
+- Live Demo: [View Live Project](xxx),
+- Source Code: [GitHub Repository](xxx).
 
 ---
 Author
 
-Author: [Ayukio Ritsuryo]
-GitHub: [@AyukioRitsuryo](https://github.com/AyukioRitsuryo)
+- Author: [Ayukio Ritsuryo],
+- GitHub: [@AyukioRitsuryo](https://github.com/AyukioRitsuryo).
 
 ---
 Project completed as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
@@ -44,7 +44,7 @@ Project completed as part of [The Odin Project](https://www.theodinproject.com/)
 
 **I. Wersja Polska**
 
-Projekt "Landing Page" będzie stworzony jako zwieńczenie HTML & CSS w ramach kursu [The Odin Project (Foundations Course)](https://www.theodinproject.com/). Głównym celem tego projektu jest odtworzenie projektu graficznego od zera, wykorzystując HTML oraz nowoczesny arkusz stylów CSS. Zaprojektowana strona będzie nowoczesnym landing page, składającym się z kluczowych sekcji.
+Projekt "Landing Page" będzie stworzony jako zwieńczenie HTML & CSS w ramach kursu [The Odin Project (Foundations Course)](https://www.theodinproject.com/). Głównym celem tego projektu jest odtworzenie projektu graficznego od zera, wykorzystując HTML oraz nowoczesny arkusz stylów CSS. Zaprojektowana strona będzie nowoczesnym landing page, składającym się z sekcji.
 
 --
 
@@ -69,15 +69,15 @@ Użyte technologie
 
 Demo na żywo
 
-- Live Demo: [Zobacz projekt na żywo](xxx)
-- Podgląd kodu: [Repozytorium GitHub](xxx)
+- Live Demo: [Zobacz projekt na żywo](xxx),
+- Podgląd kodu: [Repozytorium GitHub](xxx).
 
 ---
 
 Autor
 
-- Autor: [Ayukio Ritsuryo]
-- GitHub: [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo)
+- Autor: [Ayukio Ritsuryo],
+- GitHub: [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo).
 
 ---
 Projekt zrealizowany w ramach programu [The Odin Project](https://www.theodinproject.com/).
