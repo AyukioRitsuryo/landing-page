@@ -33,11 +33,20 @@ Font style: italic
 body {
     display: flex;
     flex-direction: column;
-    width: 100vh;
+    width: 150vh;
     font-family: 'Raleway';
+    margin: auto;
+
 }
 
 /* Header */
-    
+    .nav {
+        display: flex;
+        justify-content: space-between;
+    }
+    .buttons li {
+        display: inline-block;
+    }
+
 
 
