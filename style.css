@@ -38,7 +38,7 @@ body {
 
 }
 
-/* Header */
+/* Navbar section*/
 
 .logo {
     font-size: 24px;
@@ -54,6 +54,7 @@ body {
 a {
     text-decoration: none;
     color: #F9FAF8;
+    font-size: 18px;
     }
 .buttons {
     padding: 0px;
@@ -65,5 +66,18 @@ a {
     margin-right: 10px;
     }
 
+/* Hero section*/
 
+.hero {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+}
+.text1 {
+    font-size: 48px;
+}
+
+.text2 {
+    font-size: 18px;
+}
 
