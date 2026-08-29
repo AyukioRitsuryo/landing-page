@@ -72,12 +72,26 @@ a {
     background-color: #1F2937;
     color: white;
     display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+    padding: 50px 100px 50px 100px;
+}
+
+.container {
 }
 .text1 {
     font-size: 48px;
+    margin: 0px;
+    width: 400px;
 }
 
 .text2 {
     font-size: 18px;
+    margin: 0px;
+    width: 440px;
+}
+.racoon {
+    width: 440px;
+    height: 200px;
 }
 
