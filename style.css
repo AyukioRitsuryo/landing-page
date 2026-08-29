@@ -33,19 +33,36 @@ Font style: italic
 body {
     display: flex;
     flex-direction: column;
-    width: 150vh;
     font-family: 'Raleway';
     margin: auto;
 
 }
 
 /* Header */
-    .nav {
-        display: flex;
-        justify-content: space-between;
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
     }
-    .buttons li {
-        display: inline-block;
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #1F2937;
+    }
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    }
+.buttons {
+    padding: 0px;
+    margin: 0px;
+    align-content: flex-end;
+    }
+.buttons li {
+    display: inline-block;
+    margin-right: 10px;
     }
 
 
