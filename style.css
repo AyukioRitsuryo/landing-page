@@ -78,7 +78,9 @@ a {
 }
 
 .container {
+    width: 500px;
 }
+
 .text1 {
     font-size: 48px;
     margin: 0px;
@@ -91,7 +93,7 @@ a {
     width: 440px;
 }
 .racoon {
-    width: 440px;
+    width: 410px;
     height: 200px;
 }
 
