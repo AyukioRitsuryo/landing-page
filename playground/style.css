@@ -1,0 +1,74 @@
+
+/* Website */
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Raleway';
+    margin: auto;
+
+}
+
+/* Nav section*/
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    width: 442px;
+    }
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    background-color: #1F2937;
+    }
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    font-size: 18px;
+    }
+.buttons {
+    padding: 0px;
+    margin: 0px;
+    align-content: flex-end;
+    }
+.buttons li {
+    display: inline-block;
+    margin-right: 10px;
+    }
+
+.hero {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    padding: 15px;
+    justify-content: space-evenly;
+    padding: 50px 100px 50px 100px;
+}
+
+.container {
+    width: 500px;
+}
+
+.text1 {
+    font-size: 48px;
+    margin: 0px;
+    width: 442px;
+}
+
+.text2 {
+    font-size: 18px;
+    margin: 0px;
+    width: 442px;
+}
+.racoon {
+    width: 442px;
+    height: 200px;
+}
+

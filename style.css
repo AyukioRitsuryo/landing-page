@@ -70,7 +70,7 @@ a {
 
 .hero {
     background-color: #1F2937;
-    color: white;
+    color: #F9FAF8;
     display: flex;
     padding: 15px;
     justify-content: space-evenly;
@@ -83,6 +83,7 @@ a {
 
 .text1 {
     font-size: 48px;
+    font-weight: bold;
     margin: 0px;
     width: 400px;
 }
@@ -91,6 +92,20 @@ a {
     font-size: 18px;
     margin: 0px;
     width: 440px;
+}
+
+.click {
+    background-color: #3882F6;
+    border: 0px;
+    padding: 7px 30px 7px 30px;
+    border-radius: 5px;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px 0px 0px 0px;
+}
+button.click:hover {
+    background-color: #174a9c;
 }
 .racoon {
     width: 410px;
