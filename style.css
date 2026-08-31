@@ -112,3 +112,10 @@ button.click:hover {
     height: 200px;
 }
 
+/* Content section */
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
