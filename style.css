@@ -133,7 +133,15 @@ button.click:hover {
     text-align: center;
 }
 
-.racoons {
+.raccons {
     display: flex;
     gap: 20px;
+}
+
+.content-2 {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
 }
