@@ -117,5 +117,23 @@ button.click:hover {
 .content {
     display: flex;
     flex-direction: column;
+    padding: 30px 100px 50px 100px;
+    gap: 20px;
+    
 }
 
+.section-1 {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 20px;
+}
+
+.info {
+    text-align: center;
+}
+
+.racoons {
+    display: flex;
+    gap: 20px;
+}
