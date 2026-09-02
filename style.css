@@ -35,6 +35,7 @@ body {
     flex-direction: column;
     font-family: 'Raleway';
     margin: auto;
+    flex: 1;
 
 }
 
@@ -220,6 +221,30 @@ button.click:hover, button.click2:hover {
 .click2 {
     border: 2px solid #E5E7EB;
     width: 130px;
+}
+
+/* Footer section */
+
+.footer {
+    background-color: #1F2937;
+    padding: 25px;
+    color: white;
+    text-align: center;
+}
+
+.Ayukio {
+    font-weight: bold;
+    font-family: monospace;
+    color: #3882F6; 
+}
+
+.avatar {
+    width: 20px;
+    border-radius: 30px;
+}
+
+.odin {
+    display: inline;
 }
 
 
