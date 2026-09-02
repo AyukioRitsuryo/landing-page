@@ -234,8 +234,11 @@ button.click:hover, button.click2:hover {
 
 .Ayukio {
     font-weight: bold;
-    font-family: monospace;
     color: #3882F6; 
+}
+
+.Ayukio:hover {
+    color:#174a9c;
 }
 
 .avatar {
