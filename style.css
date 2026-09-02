@@ -117,7 +117,8 @@ button.click:hover {
 .info {
     font-size: 36px;
     color: #1F2937;
-    font-weight: 300;
+    font-weight: bold;
+    text-align: center;
 }
 .content {
     display: flex;
@@ -130,10 +131,6 @@ button.click:hover {
     flex-direction: column;
     margin: auto;
     gap: 20px;
-}
-
-.info {
-    text-align: center;
 }
 
 .raccons {
@@ -167,4 +164,21 @@ button.click:hover {
     color: #1F2937;
     font-weight: 300;
     font-style: italic;
+    display: flex;
+    justify-content: center;
+}
+
+.quote {
+    width: 850px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-text {
+    margin: 36px 0px 0px 0px;
+
+}
+.thor {
+    text-align: right;
+    font-weight: bold;
 }
