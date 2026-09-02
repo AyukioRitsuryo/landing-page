@@ -97,7 +97,7 @@ a {
     width: 440px;
 }
 
-.click {
+.click, .click2 {
     background-color: #3882F6;
     border: 0px;
     padding: 7px 30px 7px 30px;
@@ -108,7 +108,7 @@ a {
     margin: 10px 0px 0px 0px;
     width: 124px;
 }
-button.click:hover {
+button.click:hover, button.click2:hover {
     background-color: #174a9c;
 }
 .racoon {
@@ -185,6 +185,41 @@ button.click:hover {
 .thor {
     text-align: right;
     font-weight: bold;
+}
+
+/* Sign-up section */
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+}
+.sign-up-container {
+    border-radius: 5px;
+    color: white;
+    padding: 5px 40px 5px 0px;
+    display: flex;
+    justify-content: space-around;
+    margin: 46px;
+    background-color: #3882F6;
+    width: 900px;
+}
+
+.call {
+    font-weight: bold;
+    margin: 16px 0px 0px 0px;
+}
+
+.call-text {
+    margin: 0px 0px 16px 0px;
+}
+
+.button2 {
+    margin: 12px 0px 0px 0px;
+}
+
+.click2 {
+    border: 2px solid #E5E7EB;
+    width: 130px;
 }
 
 
