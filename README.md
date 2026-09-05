@@ -38,13 +38,13 @@ https://www.pexels.com/pl-pl/@ahmetmert/ - rune
 
 Live Demo
 
-- Live Demo: [View Live Project](xxx),
-- Source Code: [GitHub Repository](xxx).
+- Live Demo: [View Live Project](https://ayukioritsuryo.github.io/landing-page/),
+- Source Code: [GitHub Repository](https://github.com/AyukioRitsuryo/landing-page).
 
 ---
 Author
 
-- Author: [Ayukio Ritsuryo],
+- Author: Ayukio
 - GitHub: [@AyukioRitsuryo](https://github.com/AyukioRitsuryo).
 
 ---
@@ -86,14 +86,14 @@ Autorzy
 ---
 Demo na żywo
 
-- Live Demo: [Zobacz projekt na żywo](xxx),
-- Podgląd kodu: [Repozytorium GitHub](xxx).
+- Live Demo: [Zobacz projekt na żywo](https://ayukioritsuryo.github.io/landing-page/),
+- Podgląd kodu: [Repozytorium GitHub](https://github.com/AyukioRitsuryo/landing-page).
 
 ---
 
 Autor
 
-- Autor: [Ayukio Ritsuryo],
+- Autor: Ayukio,
 - GitHub: [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo).
 
 ---
