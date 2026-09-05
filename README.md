@@ -26,6 +26,16 @@ Technologies Used
 4. Working on Ubuntu.
 ---
 
+Photos
+
+I. Authors
+
+https://pixabay.com/pl/users/looneyarttreasures-34892594/ - resting viking
+
+https://www.pexels.com/pl-pl/@ahmetmert/ - rune
+
+---
+
 Live Demo
 
 - Live Demo: [View Live Project](xxx),
@@ -67,6 +77,13 @@ Użyte technologie
 4. Praca na Ubuntu.
 ---
 
+Zdjęcia
+
+Autorzy
+- https://pixabay.com/pl/users/looneyarttreasures-34892594/ - odpoczywający wiking
+- https://www.pexels.com/pl-pl/@ahmetmert/ - runa
+
+---
 Demo na żywo
 
 - Live Demo: [Zobacz projekt na żywo](xxx),
